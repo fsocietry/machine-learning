@@ -1,0 +1,14 @@
+# Abaikan folder virtual environment
+venv/
+
+# Abaikan file model
+*.h5
+*.keras
+
+# Abaikan file sementara Python
+*.pyc
+__pycache__/
+
+# Abaikan file konfigurasi lokal
+.DS_Store
+
